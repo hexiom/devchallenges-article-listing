@@ -98,10 +98,6 @@ h1 {
 }
 
 h2 {
-  font-size: 1.75rem;
-}
-
-h3 {
   font-size: 1.25rem;
 }
 
@@ -110,6 +106,6 @@ p {
   font-size: 0.875rem;
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-weight: 600;
 }
